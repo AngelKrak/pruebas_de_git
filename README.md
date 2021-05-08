@@ -1,6 +1,7 @@
 ## Pruebas de git
 
 Esto es una breve descripcion de lo que trata el proyecto con una tabla de referencia para el uso de Markdown
+Fue agregado desde el servidor
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
